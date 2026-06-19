@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2016,
+  "categories": {
+    "oumei-movie": 200,
+    "high-definition": 200,
+    "action-thriller": 200,
+    "sci-fi-fantasy": 200,
+    "horror-suspense": 200,
+    "drama-comedy": 200,
+    "romance-family": 200,
+    "crime-adventure": 200,
+    "history-costume": 200,
+    "series-choice": 200
+  },
+  "m3u8_sources": 20,
+  "baidu_missing": [],
+  "missing_category_ids": [],
+  "generated_image_files": []
+}
